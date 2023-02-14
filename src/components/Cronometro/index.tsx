@@ -1,4 +1,4 @@
-import Botao from "../button";
+import {Botao} from "../button";
 import Relogio from "./Relogio";
 import style from './Cronometro.module.scss'
 import { tempoParaSegundos } from "../../common/utils/time";

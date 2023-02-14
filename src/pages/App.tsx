@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import logo from './logo.svg';
-import Formulario from '../components/Formulario';
+import {Formulario} from '../components/Formulario';
 import Lista from '../components/List';
 import AppStyle from './App.module.scss';
 import Cronometro from '../components/Cronometro';
